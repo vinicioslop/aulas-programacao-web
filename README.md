@@ -122,7 +122,7 @@
 - [🏳 Formulários](exercises/forms.md)
 - [🚀 Projeto prático: HTML e CSS](exercises/projeto-a-2020-2.md)
 - [🔋 Primeiros passos com JavaScript](exercises/js.md)
-- [🔋 Objetos, funções e DOM](exercises/objetos-funcoes-dom.md) ✔
+- [🔋 Objetos, funções e DOM](exercises/objetos-funcoes-dom.md)
 - [🔋 Fetch API](exercises/fetch.md)
 - [🛢 CRUD com MySQL](exercises/crud-mysql.md)
 - [🔌 Backend com Minimal APIs](exercises/backend-minimal.md)
