@@ -54,13 +54,13 @@
 
 ### Materiais úteis
 
-- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/templates-net6.md)
-- [📖 GitHub em computadores compartilhados](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/github-login.md)
+- [📺](https://youtu.be/KZGT_pm9UlM) [📖 Novos templates .NET 6](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/templates-net6.md) 🎁
+- [📖 GitHub em computadores compartilhados](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/github-login.md) 🎁
 
 ### 👔 Introdução à web
 
-- [📷 Programação para web](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit?usp=sharing)
-- [📺](https://youtu.be/_o0C4-YX4qI) Apresentação
+- [📷 Programação para web](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit?usp=sharing) ✔
+- [📺](https://youtu.be/_o0C4-YX4qI) Apresentação ✔
 
 ### 🐢 _Frontend_
 
