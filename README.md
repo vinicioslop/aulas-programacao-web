@@ -114,12 +114,12 @@
 
 <!-- **Para alunos presenciais:** ✔ finalizada | 👁‍🗨 atual | 🔥 adicionados recentemente | 🎁 extra -->
 
-- [🏳 Marcação HTML](exercises/marcacao-html.md)
+- [🏳️ Marcação HTML](exercises/marcacao-html.md)
 - [🎨 Tipografia](exercises/tipografia.md)
 - [🎨 Cores e fundos](exercises/cores-fundos.md)
 - [🎨 _Box-model_, tamanho e posicionamento](exercises/box-model-tamanho-posicionamento.md)
 - [🎨 Leiaute e responsividade](exercises/leiaute-responsividade.md)
-- [🏳 Formulários](exercises/forms.md)
+- [🏳️ Formulários](exercises/forms.md)
 - [🚀 Projeto prático: HTML e CSS](exercises/projeto-a-2020-2.md)
 - [🔋 Primeiros passos com JavaScript](exercises/js.md)
 - [🔋 Objetos, funções e DOM](exercises/objetos-funcoes-dom.md)
@@ -162,7 +162,7 @@ Turma 2I3 da Etec Adolpho Berezin, primeiro semestre de 2023:
 
 | Data       | Conteúdo previsto                                                    | Material de apoio                                                                                                                                                                                                                                                                          | Exercícios                                                            |
 | ---------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| 15/02/2024 | [Introdução à web](#-introdução-à-web)                                | [📷](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit?usp=sharing) [📺](https://youtu.be/_o0C4-YX4qI)                                                                                                                                              |
+| 15/02/2024 | [Introdução à web](#-introdução-à-web) ✔                               | [📷](https://docs.google.com/presentation/d/1W1dcLeHVS2Ln7MG7S5A7SaTsHD0iQBA5OxIyJTGeKLc/edit?usp=sharing) [📺](https://youtu.be/_o0C4-YX4qI)                                                                                                                                              |
 | 22/02/2024 | [Marcação HTML](#-frontend)                                          | [📺](https://youtu.be/l3ft7U7iZ1s) [📖](content/hello-world-gh-pages.md) [📺](https://youtu.be/5-2U1Tk2rHI) [📖](content/marcacao-html.md)                                                                                                                                                 | [Lista](exercises/marcacao-html.md)                                   |
 | 07/03/2024 | [Estilos CSS](#-estilos-css)                                       | [📺](https://youtu.be/WgxdN0navic) [📖](content/estilos-css.md)                           |         |
 | 14/03/2024 | [Tipografia](#-marcação-e-estilização), [cores e fundos](#-marcação-e-estilização)                            | [📺](https://youtu.be/UViHi9HHAOU) [📖](content/tipografia.md) [📺](https://youtu.be/IEJhZot5HwY) [📖](content/cores-fundos.md) [📺](https://youtu.be/1sQzXRL8M4I) [📖](content/box-model.md) [📺](https://youtu.be/5I9SbWkQF28) [📖](content/posicionamento.md)                           | [Lista](exercises/cores-fundos.md)                     |
