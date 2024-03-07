@@ -66,7 +66,7 @@
 
 - [📺](https://youtu.be/l3ft7U7iZ1s) [📖 Hello World com GitHub Pages](content/hello-world-gh-pages.md) ✔
 - [📺](https://youtu.be/5-2U1Tk2rHI) [📖 Marcação HTML](content/marcacao-html.md) ✔
-- [📺](https://youtu.be/WgxdN0navic) [📖 Estilos CSS](content/estilos-css.md)
+- [📺](https://youtu.be/WgxdN0navic) [📖 Estilos CSS](content/estilos-css.md) ✔
 
 ### 🕷 Marcação e estilização
 
