@@ -75,9 +75,9 @@
 - [📺](https://youtu.be/1sQzXRL8M4I) [📖 _Box-model_](content/box-model.md) ✔
 - [📺](https://youtu.be/5I9SbWkQF28) [📖 Tamanho e posicionamento](content/posicionamento.md) ✔
 - [📺](https://youtu.be/ciLNSZdOVas) [📖 Transições e animações](content/transicoes-animacoes.md) 🎁
-- [📺](https://youtu.be/z92A3u5I09w) [📖 Leiaute](content/leiaute.md)
+- [📺](https://youtu.be/z92A3u5I09w) [📖 Leiaute](content/leiaute.md) ✔
 - [📺](https://youtu.be/tvS9KGBxEDI) [_Live_] Entendendo o Flexbox 🎁
-- [📺](https://youtu.be/ltndQE-fqSg) [📖 Responsividade](content/responsividade.md)
+- [📺](https://youtu.be/ltndQE-fqSg) [📖 Responsividade](content/responsividade.md) ✔
 - [📺](https://youtu.be/K39Pnhg99Nk) [📖 _Mobile-first holy grail_](content/holy-grail.md) 🎁
 - [📺](https://youtu.be/ApdHdo3p_JE) [📖 Formulários](content/forms.md)
 - [📺](https://youtu.be/PkpVgtvo-U0) [📖 Bibliotecas CSS e CDN](content/bibliotecas.md) 🎁
