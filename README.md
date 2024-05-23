@@ -181,7 +181,7 @@ Turma 2I3 da Etec Adolpho Berezin, primeiro semestre de 2023:
 | 13/06/2024 | [Banco de dados](#-banco-de-dados-com-entity-framework-core-e-mysql)  | [📖](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/db-mysql.md) [📺](https://youtu.be/JI1-f04navk) [📖](content/db-mysql.md) [📺](https://youtu.be/tLkxJHqUDxk) [📖](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/crud-efcore.md) | [Lista](exercises/crud-mysql.md)                                      |
 | 20/06/2024 | [Backend](#-backend)                                                  | [📺](https://youtu.be/CoU15wM8Ang) [📖](content/minimal-apis.md) [📺](https://youtu.be/-MTMXeZQ3Dc) [📖](content/rest-bd.md)                                                                                                                                                               | [Lista](exercises/rest-bd.md)                                         |
 | 27/06/2024 | [Backend](#-backend)                                                 | [📺](https://youtu.be/CoU15wM8Ang) [📖](content/minimal-apis.md) [📺](https://youtu.be/-MTMXeZQ3Dc) [📖](content/rest-bd.md)                                                                                                                                                               | [Lista](exercises/rest-bd.md)                                         |
-| ??/??/2024 | Feira de TCCs - _A definir_                                                 |
+| 27/06/2024 | Feira de TCCs - _A definir_                                                 |
 
 [Plano de curso](https://eteab.com.br/cms/wp-content/uploads/2023/01/Informatica-353_CS_atualizado-em-04-08-22.pdf)
 
