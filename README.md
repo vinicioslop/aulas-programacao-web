@@ -96,12 +96,12 @@
 ### 🛢 Banco de dados com Entity Framework Core e MySQL
 
 - [📖 Criação de ambiente MySQL](content/ambiente-mysql.md) 🎁
-- [📺](https://youtu.be/JI1-f04navk) [📖 Bancos de dados com MySQL](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/db-mysql.md)
-- [📺](https://youtu.be/tLkxJHqUDxk) [📖 CRUD com EF Core](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/crud-efcore.md)
+- [📺](https://youtu.be/JI1-f04navk) [📖 Bancos de dados com MySQL](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/db-mysql.md) ✔
+- [📺](https://youtu.be/tLkxJHqUDxk) [📖 CRUD com EF Core](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/content/crud-efcore.md) ✔
 
 ### 🔌 _Backend_
 
-- [📺](https://youtu.be/CoU15wM8Ang) [📖 Backend com Minimal APIs](content/minimal-apis.md)
+- [📺](https://youtu.be/CoU15wM8Ang) [📖 Backend com Minimal APIs](content/minimal-apis.md) ✔
 - [📺](https://youtu.be/-MTMXeZQ3Dc) [📖 REST e bancos de dados](content/rest-bd.md)
 
 [🌍 Links úteis e outros recursos](content/links.md)
